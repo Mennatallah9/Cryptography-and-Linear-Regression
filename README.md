@@ -36,7 +36,7 @@ We have also included a simple MATLAB code that implements linear regression for
 
 The outputs of the MATLAB code include:
 
-A figure showing the data points and the least squares fit for the four models.
+- A figure showing the data points and the least squares fit for the four models.
 - The values of the model coefficients.
 - The coefficient of determination (r^2), which measures the goodness of fit.
 ## Team Members
