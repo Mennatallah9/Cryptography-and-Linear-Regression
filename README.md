@@ -40,11 +40,11 @@ A figure showing the data points and the least squares fit for the four models.
 - The values of the model coefficients.
 - The coefficient of determination (r^2), which measures the goodness of fit.
 ### Team Members
-1. [Yomna Awny](https://github.com/YomnaAwny)
+1. [Rahma Ahmed]()
 2. [Rana Yasser](https://github.com/RanaYB)
-3. [Mennatallah Ashraf](https://github.com/Mennatallah9)
-4. [Haydi Mohamed](https://github.com/HaydiMohamed)
-5. [Rahma Ahmed]()
-6. [Alaa Abd Elmoneim]()
+3. [Alaa Abd Elmoneim]()
+4. [Mennatallah Ashraf](https://github.com/Mennatallah9)
+5. [Nada Abd Elghany]()
+6. [Haydi Mohamed](https://github.com/HaydiMohamed)
 7. [Yasmeen Alaa]()
-8. [Nada Abd Elghany]()
+8. [Yomna Awny](https://github.com/YomnaAwny)
