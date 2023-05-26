@@ -39,7 +39,7 @@ The outputs of the MATLAB code include:
 A figure showing the data points and the least squares fit for the four models.
 - The values of the model coefficients.
 - The coefficient of determination (r^2), which measures the goodness of fit.
-### Team Members
+## Team Members
 1. [Rahma Ahmed]()
 2. [Rana Yasser](https://github.com/RanaYB)
 3. [Alaa Abd Elmoneim]()
