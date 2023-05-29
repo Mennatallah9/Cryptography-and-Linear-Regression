@@ -40,11 +40,11 @@ The outputs of the MATLAB code include:
 - The values of the model coefficients.
 - The coefficient of determination (r^2), which measures the goodness of fit.
 ## Team Members
-1. [Alaa Abd Elmoneim]()
+1. Alaa Abd Elmoneim
 2. [Haydi Mohamed](https://github.com/HaydiMohamed)
 3. [Mennatallah Ashraf](https://github.com/Mennatallah9)
-4. [Nada Abd Elghany]()
-5. [Rahma Ahmed]()
+4. Nada Abd Elghany
+5. Rahma Ahmed
 6. [Rana Yasser](https://github.com/RanaYB)
-7. [Yasmeen Alaa]()
+7. Yasmeen Alaa
 8. [Yomna Awny](https://github.com/YomnaAwny)
